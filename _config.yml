@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Custom URL format. 
+permalink:        "/blog/:year/:title.html"
 
 header_pages:
   - technology.md
