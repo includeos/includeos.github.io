@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: IncludeOS - Run your application with zero overhead
 ---
-
-# Run your application with zero overhead
 
 IncludeOS allows you to run your application in the cloud without an operating system. IncludeOS adds operating system functionality to your application allowing you to create performant, secure and resource efficient virtual machines.
 
