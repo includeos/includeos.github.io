@@ -12,7 +12,7 @@ IncludeOS applications boot in tens of milliseconds and require only a few megab
 
 
 [[View on Github]](https://github.com/includeos/IncludeOS)
-[[Chat on Slack]](https://goo.gl/NXBVsc)
+[[Chat on Slack]](https://join.slack.com/t/includeos/shared_invite/zt-5z7ts29z-_AX0kZNiUNE7eIMUP60GmQ)
 [[Tell me more]](technology.html)
 
 
