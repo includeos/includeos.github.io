@@ -92,5 +92,5 @@ If you know how debuggers actually work under the hood and have ideas for how we
 
 
 [LiveUpdate]: /blog/2017/liveupdate.html
-[Slack]: https://goo.gl/NXBVsc
+[Slack]: https://join.slack.com/t/includeos/shared_invite/zt-5z7ts29z-_AX0kZNiUNE7eIMUP60GmQ
 [Non-intrusive real time stack sampling in IncludeOS]: /blog/2016/non-intrusive-real-time-stack-sampling-in-includeos.html
