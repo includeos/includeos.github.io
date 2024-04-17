@@ -42,7 +42,7 @@ The hello world booted service should look like this:
 
 ```
 ================================================================================
- IncludeOS 0.14.1-1093 (x86_64 / 64-bit)
+ IncludeOS 0.15.0 (x86_64 / 64-bit)
  +--> Running [ Hello world - OS included ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Hello world
